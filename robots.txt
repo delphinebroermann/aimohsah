@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://wohgaitha.cxy1102.com/sitemap.xml
